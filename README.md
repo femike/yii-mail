@@ -1,7 +1,7 @@
 yii-mail
 ========
 
-yii-mail forck http://yii-mail.googlecode.com/svn/trunk/
+yii-mail fork http://yii-mail.googlecode.com/svn/trunk/
 
 Example config:
 <pre>
